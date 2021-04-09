@@ -1,6 +1,6 @@
 .h1 {
-  color: lime; font-family: Lucida Console, monospace; font-size: 300%; z-index: 100;
+  color: lime !important; font-family: Lucida Console, monospace !important; font-size: 300% !important; z-index: 100 v;
 }
 .body {
-  background-color: black;
+  background-color: black !important;
 }
